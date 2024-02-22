@@ -1,0 +1,2 @@
+ <p>{{ helloArray[0] }} Hello {{ name.toUpperCase() }}</p>
+<p>{{ helloArray[1] }} Hello {{ getName() }}</p>
